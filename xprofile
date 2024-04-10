@@ -1,0 +1,5 @@
+# sourcing variables here makes them available to i3, 
+# therefore dmenu, etc
+if [ -f "$HOME/.environment_vars" ]; then
+    . "$HOME/.environment_vars"
+fi
