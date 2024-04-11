@@ -116,7 +116,3 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# this sources $PATH
-if [ -f "$HOME/.environment_vars" ]; then
-    . "$HOME/.environment_vars"
-fi

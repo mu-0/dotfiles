@@ -1,2 +1,0 @@
-# managing PATH here so it's available to both .bashrc and .xprofile
-export PATH=/home/gray/applications:$PATH
