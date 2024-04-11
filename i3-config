@@ -189,3 +189,6 @@ bar {
 ### CUSTOM
 # enable tap to click: specific to dell xps 13
 exec xinput set-prop --type=int "DLL0945:00 06CB:CDE6 Touchpad" "libinput Tapping Enabled" 1
+
+# lock screen shortcut
+bindsym $mod+Control+l exec "i3lock -c 000000"
