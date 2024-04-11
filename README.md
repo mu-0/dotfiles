@@ -6,3 +6,8 @@
 - `mozc_ibus_config --> ~/.config/mozc/ibus_config.textproto`
 - `xprofile --> ~/.xprofile`
 
+
+dependencies:
+- maim
+- xclip
+- xdotool
