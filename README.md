@@ -6,6 +6,7 @@
 - `mozc_ibus_config --> ~/.config/mozc/ibus_config.textproto`
 - `xprofile --> ~/.xprofile`
 - `vimrc --> ~/.vimrc`
+- `tmux.conf --> ~/.tmux.conf`
 
 
 dependencies:
