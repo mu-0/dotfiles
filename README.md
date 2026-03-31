@@ -7,6 +7,8 @@
 - `xprofile --> ~/.xprofile`
 - `vimrc --> ~/.vimrc`
 - `tmux.conf --> ~/.tmux.conf`
+- `ranger/ --> ~./config/ranger/`
+- `bash_custom --> source from .bashrc or equiv`
 
 
 dependencies:
